@@ -35,3 +35,26 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Samples/Visual Effect Graph.meta
+Assets/Samples/Visual Effect Graph/7.1.7.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Prefabs.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Shaders.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Subgraphs.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Textures.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/VFX.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Shaders/MeshOutput.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Shaders/ParticleOutput.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Shaders/Subgraphs.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Subgraphs/Blocks.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Subgraphs/Operators.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Subgraphs/Operators/Tween.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Textures/Explosion.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Textures/Fire.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Textures/FlowMaps.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Textures/Generic.meta
+Assets/Samples/Visual Effect Graph/7.1.7/VisualEffectGraph Additions/Textures/Smoke.meta
+.idea/.idea.VisualEffectGraph-Samples/riderModule.iml
+.idea/.idea.VisualEffectGraph-Samples/.idea/contentModel.xml
+.idea/.idea.VisualEffectGraph-Samples/.idea/indexLayout.xml
+.idea/.idea.VisualEffectGraph-Samples/.idea/modules.xml
